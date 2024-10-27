@@ -1,4 +1,4 @@
-# ToF-X Smarthus prosjekt
+# Smarthus prosjekt
 Smarthus prosjekt laget under teknologi og forskningslære X hos Sotra Videregående
 
 ## Plakat
